@@ -6,6 +6,8 @@ NOTE: This README was auto-converted from the original HTML. Inline CSS was remo
 # Rainbet Exposed: The Most Dangerous Bookie on Football Twitter
 
 2025-09-26 09:00:00
+ORIGINAL ARTICLE LINK:
+https://www.attackingfootball.com/rainbet-exposed-bookie-football-twitter/
 
 It’s Saturday afternoon, and your football timeline is flooded with posts: glossy screenshots of winning bet slips showing thousands staked and tens of thousands returned. Always the same logo stamped in the corner — **Rainbet**. Always the same tag in the bio — **@Rainbet**.
 
@@ -241,3 +243,49 @@ So if you see the flashy clips or the big “wins” and feel tempted, just reme
 https://twitter.com/clippedszn/status/1970305399267172435
 
 **Stay safe. Please.**
+
+
+## Update — Outreach, Bot Activity, and DDoS (30 September 2025)
+
+### We have reached out
+- We have reached out to **Rainbet** for comment and will append any response we receive.
+- We have also contacted our **hosting provider** and platform **safety/abuse teams** regarding the activity described below.
+- Media enquiries are welcome: **paddy@attackingfootball.com**.
+
+---
+
+### Quick summary for journalists (shareable)
+- **What we published:** *“Rainbet Exposed: The Most Dangerous Bookie on Football Twitter.”*
+- **What it found:** Evidence-backed review indicating undisclosed paid promos to UK/Ireland audiences and **fabricated or unverifiable bet slips** amplified by influencers.
+- **Why it matters:** Operator appears **unlicensed in the UK/IE**, with **terms enabling voided payouts**, **VPN voids**, and **withdrawal hurdles**—leaving users with limited redress.
+- **Evidence:** Open-source collection of promos, T&Cs, and examples of claimed “wins” cross-checked against match data.
+
+---
+
+### What happened next — in order
+1) **Engagement anomalies on X/Twitter**
+   - Immediately after publication we observed **likes exceeding views** on some posts, a sudden surge of **tens of thousands of low‑signal followers**, and other indicators consistent with **like/follow botting**.
+   - These anomalies were **screen‑captured** and preserved.
+
+2) **DDoS against Attacking Football**
+   - Shortly after, our site was hit by a **layer‑7 HTTP flood**. Requests used single‑token query strings designed to **bypass cache** and **force dynamic PHP load**.
+   - Our host (**Namecheap**) confirmed an ongoing **DDoS wave targeting our domain**, stated it impacted their **Supersonic CDN**, and **null‑routed our domain** to protect other clients.
+   - Namecheap status reference: [Issue with the Supersonic CDN service due to ongoing DDoS attack](https://www.namecheap.com/status-updates/issue-with-the-supersonic-cdn-service-due-to-ongoing-ddos-attack).
+   - We hold **raw logs**, a **summary of top attacking IPs**, and **host notices**.
+
+#### Attribution note
+We are **not alleging** Rainbet conducted the DDoS or botting. We are documenting the **timeline** and sharing **verifiable artefacts**. The sequence is, at minimum, **highly concerning**. Even absent attribution, the **consumer‑protection story stands on its own merits**.
+
+---
+
+### Evidence pack (downloads)
+- **Article backup + screenshots pack:** `rainbet_exposed_with_assets` (includes offline HTML and captures).
+- **Host confirmation:** Namecheap correspondence confirming DDoS impact, CDN disruption, and null‑route (available on request).
+- **Relevant post:** Timeline context on X/Twitter — <https://x.com/PaddyKeoghAF/status/1972566685703172573>
+
+---
+
+### Copy‑paste summary (email friendly)
+> The article was an evidence‑backed investigation into Rainbet, an offshore bookmaker aggressively promoted on Football Twitter via undisclosed paid posts and **fabricated bet slips**.  
+> **Why this matters:** Users in the UK/Ireland are being targeted by an operator without domestic licensing or effective redress, with terms enabling **voided payouts**, **VPN voids**, and **withdrawal hurdles**. We also observed **co‑ordinated influencer outreach** offering rates/assets for fake slips.  
+> **Post‑publication:** our account experienced **bot‑style likes/follows** and our website suffered a **DDoS** (per our host, severe enough to impact their CDN and require null‑routing). We provide logs, screenshots, and host notes. We make **no direct attribution**; we present the timeline and evidence.
