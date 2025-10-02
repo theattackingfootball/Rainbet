@@ -1,0 +1,1 @@
+Namecheap Legal & Abuse: HAProxy block during attack (20:49). Recommendation: Cloudflare 'Under Attack' mode.
