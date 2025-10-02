@@ -28,7 +28,7 @@ This repository documents Attacking Football’s reporting on Rainbet, the after
 ---
 
 ## Summary
-- **Article published:** *Rainbet Exposed: The Most Dangerous Bookie On Football Twitter* (26 Sept 2025).  
+- **Article published:** *Rainbet Exposed: The Most Dangerous Bookie On Football Twitter* (26 Sept 2025). ([Link 1](https://www.attackingfootball.com/rainbet-exposed-bookie-football-twitter/)/Link 2/[Link 3](https://github.com/theattackingfootball/Rainbet/blob/main/Rainbet%20Article.md)) 
 - **Before publication:** On 13 Sept 2025 we sent a detailed media enquiry to Rainbet. **No response** by the requested 18 Sept deadline.  
 - **After publication:** Our site and social channels experienced a spike in suspicious activity (bot-like follows/likes; HTTP-flood attacks).  
 - **Notices:** Namecheap applied HAProxy blocking, then **null-routed** our domain during the wave; Cloudflare auto-mitigated requests flagged as **“HTTP requests from known botnet (signature #5)”** peaking ~**180 rps**.  
@@ -57,7 +57,7 @@ This repository documents Attacking Football’s reporting on Rainbet, the after
 ---
 
 ## What We Published
-- **Article (26 Sept 2025):** *Rainbet Exposed: The Most Dangerous Bookie On Football Twitter.*  
+- **Article (26 Sept 2025):** *Rainbet Exposed: The Most Dangerous Bookie On Football Twitter.* ([Link 1](https://www.attackingfootball.com/rainbet-exposed-bookie-football-twitter/)/Link 2/[Link 3](https://github.com/theattackingfootball/Rainbet/blob/main/Rainbet%20Article.md))   
   Focus: licensing posture (incl. Anjouan/Comoros screenshot), influencer/bet-slip promos, consumer-protection risks, payment transparency.  
   - Licence screenshot: `evidence/licenses/anjouan-rbgaming-nv.png`
 
