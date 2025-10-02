@@ -1,1 +1,37 @@
 Final request sent 01 Oct 2025, 09:03 (48h window; escalation path).
+Final Request for Response – Ongoing DDoS Attacks on AttackingFootball.com
+
+Attacking Football <theattackingfootball@gmail.com>
+Wed, Oct 1, 9:03 AM (2 days ago)
+to manager
+
+Dear Rainbet Team,
+
+I am writing to you once again regarding the ongoing Distributed Denial of Service (DDoS) attacks against AttackingFootball.com, which began shortly after we published our investigation titled “Rainbet Exposed: The Most Dangerous Bookie on Football Twitter.”
+
+Cloudflare has now issued multiple alerts confirming active HTTP flood attacks against our site, most recently at 06:35 UTC on 1 October 2025. These attacks are continuing and are directly impacting our ability to operate.
+
+Despite previous attempts to contact you, we have not received any response from Rainbet. Given the timing and nature of these incidents, your silence is concerning.
+
+I am aware that Rainbet operates under licences issued in Curaçao and Comoros. Please note that the regulatory environments of these jurisdictions do not limit our ability to escalate this matter through EU cybercrime reporting channels and relevant media organisations.
+
+This is a final opportunity for Rainbet to:
+
+1. Confirm whether you or any affiliated parties have any knowledge of, or involvement in, these attacks.
+
+
+2. Provide a formal statement or clarification regarding the issues raised in our article.
+
+If no response is received within 48 hours, we will proceed to escalate this matter through the appropriate legal, cybersecurity, and media channels, including but not limited to:
+
+Reporting the attacks to the Garda National Cyber Crime Bureau (GNCCB) and relevant EU authorities.
+
+Sharing our findings and attack logs with consumer protection bodies and investigative journalists.
+
+Publishing a timeline update to the original investigation outlining the attacks and the lack of response.
+
+This is a serious matter. We are extending this courtesy to give Rainbet a final chance to engage constructively.
+
+Yours sincerely,
+Paddy Keogh
+Attacking Football
