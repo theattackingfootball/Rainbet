@@ -52,6 +52,7 @@ This repository documents Attacking Football’s reporting on Rainbet, the after
 | **Wed, 01 Oct 2025, 09:03** | **Final request for response** sent to Rainbet (48-hour window; escalation path). | `evidence/outreach/2025-10-01-final-request.txt` |
 | **Thu, 02 Oct 2025, 16:11:55 UTC** | Cloudflare **auto-mitigation**: *HTTP requests from known botnet (signature #5)* — action **block**, peak **180 rps**. | `evidence/cf/2025-10-02-rule5-email.png` |
 | **Thu, 02 Oct 2025 (evening)** | Tweet noting **Rainbet removed “Meet the Team” page** post-publication. | `evidence/social/tweets/meet-the-team-removed.png` |
+| **Thu, 02 Oct 2025 (night)** | Attacks continued on Twitter with people not even associated being Like Botted and Follow Botted for sharing negative tweets regarding Rainbet. | `evidence/social/tweets/fpl-Zlatan-2.png` |
 | **As of 02 Oct 2025** | No response from Rainbet; attacks intermittent. | Status noted here. |
 
 ---
